@@ -1,0 +1,16 @@
+{
+  "name": "meal-suggestion",
+  "version": "1.0.0",
+  "description": "",
+  "main": "meals.js",
+  "scripts": {
+    "cy:open": "cypress open"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "cypress": "^14.2.1"
+  }
+}
